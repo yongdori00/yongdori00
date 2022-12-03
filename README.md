@@ -2,9 +2,21 @@
 
 ## Skill
 
-![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+![로고명](https://img.shields.io/badge/c-6DB33F.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF)
+![로고명](https://img.shields.io/badge/java-6DB33F.svg?&style=for-the-badge&logo=java&logoColor=FFFFFF)
+![로고명](https://img.shields.io/badge/python-6DB33F.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF)
 
-![로고명](https://img.shields.io/badge/spring-#6DB33F.svg?&logo=Spring&logoColor=#6DB33F)
+![로고명](https://img.shields.io/badge/android-6DB33F.svg?&style=for-the-badge&logo=android&logoColor=FFFFFF)
+
+![로고명](https://img.shields.io/badge/spring_boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=FFFFFF)
+![로고명](https://img.shields.io/badge/django-6DB33F.svg?&style=for-the-badge&logo=django&logoColor=FFFFFF)
+
+![로고명](https://img.shields.io/badge/amazon_aws-6DB33F.svg?&style=for-the-badge&logo=amazon&logoColor=FFFFFF)
+![로고명](https://img.shields.io/badge/docker-6DB33F.svg?&style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![로고명](https://img.shields.io/badge/nginx-6DB33F.svg?&style=for-the-badge&logo=nginx&logoColor=FFFFFF)
+
+![로고명](https://img.shields.io/badge/mariadb-6DB33F.svg?&style=for-the-badge&logo=mariadb&logoColor=FFFFFF)
+![로고명](https://img.shields.io/badge/mysql-6DB33F.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 
 ![yongdori00's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongdori00&show_icons=true&theme=buefy)
 
